@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dunamix.Theme.Portfolio.Client.Oqtane.props" />
+</Project>

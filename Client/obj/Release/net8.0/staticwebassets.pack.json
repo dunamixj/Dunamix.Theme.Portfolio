@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Dev\\Dunamix.Theme.Portfolio\\Client\\wwwroot\\Themes\\Dunamix.Theme.Portfolio\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\Themes\\Dunamix.Theme.Portfolio\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Dev\\Dunamix.Theme.Portfolio\\Client\\wwwroot\\Themes\\Dunamix.Theme.Portfolio\\assets\\img\\01.jpg",
+      "PackagePath": "staticwebassets\\Themes\\Dunamix.Theme.Portfolio\\assets\\img\\01.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\Dunamix.Theme.Portfolio\\Client\\wwwroot\\Themes\\Dunamix.Theme.Portfolio\\assets\\img\\02.jpg",
+      "PackagePath": "staticwebassets\\Themes\\Dunamix.Theme.Portfolio\\assets\\img\\02.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\Dunamix.Theme.Portfolio\\Client\\wwwroot\\Themes\\Dunamix.Theme.Portfolio\\assets\\img\\03.jpg",
+      "PackagePath": "staticwebassets\\Themes\\Dunamix.Theme.Portfolio\\assets\\img\\03.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\Dunamix.Theme.Portfolio\\Client\\wwwroot\\Themes\\Dunamix.Theme.Portfolio\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Themes\\Dunamix.Theme.Portfolio\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Dev\\Dunamix.Theme.Portfolio\\Client\\wwwroot\\Themes\\Dunamix.Theme.Portfolio\\index.html",
+      "PackagePath": "staticwebassets\\Themes\\Dunamix.Theme.Portfolio\\index.html"
+    },
+    {
+      "Id": "C:\\Dev\\Dunamix.Theme.Portfolio\\Client\\wwwroot\\Themes\\Dunamix.Theme.Portfolio\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Themes\\Dunamix.Theme.Portfolio\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Dunamix.Theme.Portfolio.Client.Oqtane.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Dunamix.Theme.Portfolio.Client.Oqtane.props",
+      "PackagePath": "build\\Dunamix.Theme.Portfolio.Client.Oqtane.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dunamix.Theme.Portfolio.Client.Oqtane.props",
+      "PackagePath": "buildMultiTargeting\\Dunamix.Theme.Portfolio.Client.Oqtane.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dunamix.Theme.Portfolio.Client.Oqtane.props",
+      "PackagePath": "buildTransitive\\Dunamix.Theme.Portfolio.Client.Oqtane.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
